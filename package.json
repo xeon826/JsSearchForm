@@ -1,0 +1,47 @@
+{
+  "_from": "github:xeon826/JsSearchForm#master",
+  "_id": "searchform@1.0.2",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/searchform",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "searchform@github:xeon826/JsSearchForm#master",
+    "name": "searchform",
+    "escapedName": "searchform",
+    "rawSpec": "github:xeon826/JsSearchForm#master",
+    "saveSpec": "github:xeon826/JsSearchForm#master",
+    "fetchSpec": null,
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "github:xeon826/JsSearchForm#0f1b7608cf7a8bfecf270c71d82072623d226354",
+  "_spec": "searchform@github:xeon826/JsSearchForm#master",
+  "_where": "/home/dan/portal.timetracker365.com/apache2/htdocs",
+  "author": {
+    "name": "xeon826"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "@material/list": "^3.0.0",
+    "file-saverjs": "^1.3.6",
+    "tableexport": "^5.2.0",
+    "xlsx": "^0.14.2"
+  },
+  "deprecated": false,
+  "description": "AjaxSearchForm",
+  "keywords": [
+    "search",
+    "form"
+  ],
+  "license": "ISC",
+  "main": "searchForm.js",
+  "name": "searchform",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.2"
+}
